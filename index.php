@@ -37,21 +37,21 @@
 </ul>
 <div class="login">
     <div class="login_s1">
-        <!--欢迎-->
+
         <span id="user_1"><?php include'header1.php'?></span>
-        <!--光临本网站，您可以-->
+
     </div>
-    <!--<a href="login.html" class="a6_1">登录</a>-->
-    <!--<a href="http://localhost:81/third%20project/register.html" class="a6">注册</a>-->
+
 </div>
 </div>
+
 <div class="content">
     <div class="content_1">产品展示</div>
     <ul class="content_ul01">
-        <li>蜂胶</li>
-        <li>蜂胶</li>
-        <li>枣花蜜</li>
         <li>野花蜂蜜</li>
+        <li>百花蜂蜜</li>
+        <li>枣花蜜</li>
+        <li>蜂胶</li>
         <li>荆花蜜</li>
         <li>茶花蜜</li>
         <li>蜂王浆</li>
@@ -65,22 +65,27 @@
         <span class="content_right1_s2">首页</span>
     </div>
 <div class="content_right2">
-    <div class="content_right2_zs"><img src="images/sp1.png" class="content_right2_zsimg"><br>蜂胶</div>
-    <div class="content_right2_zs"><img src="images/sp2.png" class="content_right2_zsimg"><br>蜂胶</div>
-    <div class="content_right2_zs"><img src="images/sp3.png" class="content_right2_zsimg"><br>野花蜂蜜</div>
+    <div class="content_right2_zs"><img src="images/sp1.png" class="content_right2_zsimg"><br>野花蜂蜜</div>
+    <div class="content_right2_zs"><img src="images/sp2.png" class="content_right2_zsimg"><br>百花蜂蜜</div>
+    <div class="content_right2_zs"><img src="images/sp3.png" class="content_right2_zsimg"><br>蜂蜜现场</div>
     <div class="content_right2_zs"><img src="images/sp4.png" class="content_right2_zsimg"><br>枣花蜜</div>
-    <div class="content_right2_zs"><img src="images/sp5.png" class="content_right2_zsimg"><br>百花蜂蜜</div>
+    <div class="content_right2_zs"><img src="images/sp5.png" class="content_right2_zsimg"><br>蜂胶</div>
     <div class="content_right2_zs"><img src="images/sp6.png" class="content_right2_zsimg"><br>荆花蜜</div>
     <div class="content_right2_zs"><img src="images/sp7.png" class="content_right2_zsimg"><br>茶花蜜</div>
     <div class="content_right2_zs"><img src="images/sp8.png" class="content_right2_zsimg"><br>蜂王浆</div>
     <div class="content_right2_zs"><img src="images/sp9.png" class="content_right2_zsimg"><br>槐花蜜</div>
+
     <div id="mb01">
         <div id="mb"></div>
         <div id="img"><img ></div>
         <div id="close">关闭</div>
     </div>
+
 </div>
+
+
 </div>
+
 <div class="footer">
     <ul class="footer_ul">
         <li><a href="http://localhost:81/third%20project/index.php" class="a1">首页</a></li>
